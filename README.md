@@ -1,2 +1,2 @@
 # micro-front-end-small-example
-A small example of is the Architecture with Microfrontends.
+A small example of architecture using Microfrontends and Monorepo.
