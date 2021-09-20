@@ -277,6 +277,13 @@ packages:
       relative: true
     source: path
     version: "0.0.1"
+  module_login:
+    dependency: transitive
+    description:
+      path: "../module_login"
+      relative: true
+    source: path
+    version: "0.0.1"
   node_preamble:
     dependency: transitive
     description:

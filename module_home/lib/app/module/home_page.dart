@@ -35,7 +35,7 @@ class _HomePageState extends ModularState<HomePage, HomeStore> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
-          store.increment();
+          Modular.to.pushNamed('/login');
         },
         child: Icon(Icons.add),
       ),

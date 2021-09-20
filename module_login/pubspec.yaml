@@ -1,4 +1,4 @@
-name: core
+name: module_login
 description: A new Flutter package project.
 version: 0.0.1
 homepage:
@@ -13,14 +13,11 @@ dependencies:
     sdk: flutter
   commons_dependencies:
     path: "../commons_dependencies"
-  module_home:
-    path: "../module_home"
-  module_login:
-    path: "../module_login"
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^1.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
